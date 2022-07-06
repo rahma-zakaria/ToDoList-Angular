@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+/* npm install jquery --save */
+/* npm install popper.js --save */
+/* bootstrap */
+/* @import "../node_modules/jquery/dist/jquery.min.js";
+@import "../node_modules/popper.js/dist/umd/popper.min.js"; */
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
